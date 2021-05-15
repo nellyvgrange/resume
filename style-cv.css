@@ -1,0 +1,76 @@
+body {
+    background-color:white;
+    font-family: 'Trebuchet MS';
+    width: 60%;
+    margin: auto;
+}
+
+#banner {
+    text-align: center;
+    background-color: rebeccapurple;
+    width: 100%;
+    height: 4rem;
+    vertical-align: middle;
+    margin-bottom: 3rem;
+}
+
+#banner p {
+    font-size: xx-large;
+    text-transform: uppercase;
+}
+
+#identity {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    margin-bottom: 3rem;
+}
+
+#contact_information p {
+    margin-right: 3rem;
+}
+
+#function {
+    margin-left: 3rem;
+}
+
+#photo img {
+    border: 3px solid rebeccapurple;
+}
+
+#text_presentation {
+    text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: rebeccapurple;
+    font-size: large;
+}
+
+#jobs {
+    display: flex;
+}
+
+#jobs_title {
+    width: 30%;
+}
+
+#studies {
+    display: flex;
+}
+
+#studies_title {
+    width: 30%;
+}
+
+#hobbies {
+    display: flex;
+}
+
+#hobbies_title {
+    width: 30%;
+}
